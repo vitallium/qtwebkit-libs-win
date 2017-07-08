@@ -4,3 +4,6 @@
 [submodule "libjpeg"]
 	path = libjpeg
 	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
+[submodule "libpng"]
+	path = libpng
+	url = https://git.code.sf.net/p/libpng/code
